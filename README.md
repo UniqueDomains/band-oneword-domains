@@ -25,7 +25,7 @@ If you want to search & filters the complete database of [.BAND one word domains
 | aaron.band      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.band  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.band      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.band  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.band  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.band    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.band     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.band   | available | 54       | 1%     | 8      |           |         |         |
@@ -34,7 +34,7 @@ If you want to search & filters the complete database of [.BAND one word domains
 | abbatial.band   | available | 50       | 1%     | 8      |           |         |         |
 | abc.band        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.band  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.band  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.band  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.band | available | 56       | 1%     | 10     |           |         |         |
 | abducens.band   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.band   | available | 68       | 1%     | 8      |           |         |         |
@@ -42,7 +42,7 @@ If you want to search & filters the complete database of [.BAND one word domains
 | abenaki.band    | available | 82       | 3%     | 7      |           |         |         |
 | aberdonian.band | available | 68       | 1%     | 10     |           |         |         |
 | abeyant.band    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.band  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.band  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.band    | available | 106      | 5%     | 7      |           |         |         |
 | abient.band     | available | 54       | 1%     | 6      |           |         |         |
 | ability.band    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.BAND one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
