@@ -1,10 +1,10 @@
-# Available .BAND One-Word Domains (8,907)
+# Available .BAND One-Word Domains (8,911)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C911%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C907%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C911%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .band one-word domains from Unique
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,911 rows · **Live catalog:** 8,907 domains
+**Public extract:** 8,911 rows · **Live catalog:** 8,911 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/band`  
 **Best for:** founders, investors, studios
 
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| story.band      | available | $29.99    | —             | 70             | 44     | 5      | name.com                                                  |
+| creator.band    | available | $29.99    | $41.99        | 70             | 45     | 7      | name.com                                                  |
 | get.band        | resell    | —         | —             | 88             | 69     | 3      | Porkbun LLC                                               |
 | power.band      | premium   | $520      | $520          | 98             | 62     | 5      | namecheap                                                 |
-| creator.band    | available | $29.99    | $41.99        | 70             | 44     | 7      | name.com                                                  |
+| story.band      | available | $29.99    | —             | 70             | 44     | 5      | name.com                                                  |
 | data.band       | resell    | —         | —             | 70             | 56     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 | enterprise.band | premium   | $520      | $520          | 68             | 61     | 10     | namecheap                                                 |
 | elite.band      | available | $29.99    | $41.99        | 90             | 43     | 5      | name.com                                                  |
 | book.band       | resell    | —         | —             | 82             | 55     | 4      | GoDaddy.com, LLC                                          |
 | good.band       | premium   | $123.75   | $123.75       | 82             | 55     | 4      | name.com                                                  |
-| research.band   | available | $39.98    | —             | 92             | 41     | 8      | namecheap                                                 |
-| wallet.band     | resell    | —         | —             | 74             | 54     | 6      | Unstoppable Domains Inc                                   |
-| free.band       | premium   | $500      | $500          | 88             | 54     | 4      | name.com                                                  |
-| learning.band   | available | $39.98    | —             | 76             | 41     | 8      | namecheap                                                 |
-| sky.band        | resell    | —         | —             | 80             | 53     | 3      | Xiamen ChinaSource Internet Service Co., Ltd              |
-| zero.band       | premium   | $82.50    | $82.50        | 112            | 53     | 4      | name.com                                                  |
 | quick.band      | available | $29.99    | $41.99        | 72             | 41     | 5      | name.com                                                  |
+| wallet.band     | resell    | —         | —             | 74             | 54     | 6      | Unstoppable Domains Inc                                   |
+| zero.band       | premium   | $82.50    | $82.50        | 112            | 54     | 4      | name.com                                                  |
+| lemon.band      | available | $29.99    | —             | 64             | 41     | 5      | name.com                                                  |
+| sky.band        | resell    | —         | —             | 80             | 53     | 3      | Xiamen ChinaSource Internet Service Co., Ltd              |
+| free.band       | premium   | $500      | $500          | 88             | 54     | 4      | name.com                                                  |
+| skill.band      | available | $39.98    | —             | 120            | 40     | 5      | namecheap                                                 |
 | art.band        | resell    | —         | —             | 90             | 52     | 3      | Spaceship, Inc.                                           |
 | athletics.band  | premium   | $128.70   | $128.70       | 69             | 52     | 9      | namecheap                                                 |
-| lemon.band      | available | $29.99    | —             | 64             | 41     | 5      | name.com                                                  |
+| daily.band      | available | $29.99    | $41.99        | 74             | 40     | 5      | name.com                                                  |
 | create.band     | resell    | —         | —             | 107            | 49     | 6      | GoDaddy.com, LLC                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,911-row public sample | 8,907 live domains                               |
+| 8,911-row public sample | 8,911 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BAND One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BAND One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
