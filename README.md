@@ -75,10 +75,10 @@ print(df.head())
 | good.band       | premium   | $123.75   | $123.75       | 82             | 55     | 4      | name.com                                                  |
 | quick.band      | available | $29.99    | $41.99        | 72             | 41     | 5      | name.com                                                  |
 | wallet.band     | resell    | —         | —             | 74             | 54     | 6      | Unstoppable Domains Inc                                   |
-| zero.band       | premium   | $82.50    | $82.50        | 112            | 54     | 4      | name.com                                                  |
+| free.band       | premium   | $500      | $500          | 88             | 54     | 4      | name.com                                                  |
 | lemon.band      | available | $29.99    | —             | 64             | 41     | 5      | name.com                                                  |
 | sky.band        | resell    | —         | —             | 80             | 53     | 3      | Xiamen ChinaSource Internet Service Co., Ltd              |
-| free.band       | premium   | $500      | $500          | 88             | 54     | 4      | name.com                                                  |
+| zero.band       | premium   | $82.50    | $82.50        | 112            | 53     | 4      | name.com                                                  |
 | skill.band      | available | $39.98    | —             | 120            | 40     | 5      | namecheap                                                 |
 | art.band        | resell    | —         | —             | 90             | 52     | 3      | Spaceship, Inc.                                           |
 | athletics.band  | premium   | $128.70   | $128.70       | 69             | 52     | 9      | namecheap                                                 |
