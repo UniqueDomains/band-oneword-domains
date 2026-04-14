@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .band one-word domains from Unique
 
 **Public extract:** 8,911 rows · **Live catalog:** 8,911 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/band`  
 **Best for:** founders, investors, studios
 
@@ -70,7 +70,7 @@ print(df.head())
 | story.band      | available | $29.99    | —             | 70             | 44     | 5      | name.com                                                  |
 | data.band       | resell    | —         | —             | 70             | 56     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 | enterprise.band | premium   | $520      | $520          | 68             | 61     | 10     | namecheap                                                 |
-| elite.band      | available | $29.99    | $41.99        | 90             | 43     | 5      | name.com                                                  |
+| elite.band      | available | $29.99    | $41.99        | 90             | 42     | 5      | name.com                                                  |
 | book.band       | resell    | —         | —             | 82             | 55     | 4      | GoDaddy.com, LLC                                          |
 | good.band       | premium   | $123.75   | $123.75       | 82             | 55     | 4      | name.com                                                  |
 | quick.band      | available | $29.99    | $41.99        | 72             | 41     | 5      | name.com                                                  |
@@ -82,8 +82,8 @@ print(df.head())
 | skill.band      | available | $39.98    | —             | 120            | 40     | 5      | namecheap                                                 |
 | art.band        | resell    | —         | —             | 90             | 52     | 3      | Spaceship, Inc.                                           |
 | athletics.band  | premium   | $128.70   | $128.70       | 69             | 52     | 9      | namecheap                                                 |
-| daily.band      | available | $29.99    | $41.99        | 74             | 40     | 5      | name.com                                                  |
-| create.band     | resell    | —         | —             | 107            | 49     | 6      | GoDaddy.com, LLC                                          |
+| dark.band       | available | $29.99    | $41.99        | 52             | 40     | 4      | name.com                                                  |
+| simple.band     | resell    | —         | —             | 128            | 49     | 6      | Xiamen ChinaSource Internet Service Co., Ltd              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BAND One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BAND One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
