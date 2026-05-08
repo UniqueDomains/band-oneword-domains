@@ -79,7 +79,7 @@ print(df.head())
 | affiliates.band  | premium   | $78.54    | $78.54        | 60             | 21     | 10     | namesilo         |
 | rewards.band     | available | $29.99    | —             | 62             | 30     | 7      | name.com         |
 | geeks.band       | premium   | $123.75   | —             | 54             | 21     | 5      | name.com         |
-| lottery.band     | available | $29.99    | —             | 70             | 28     | 7      | name.com         |
+| lottery.band     | available | $29.99    | —             | 70             | 29     | 7      | name.com         |
 | Tshirts.band     | premium   | $82.50    | —             | 70             | 20     | 8      | name.com         |
 | systems.band     | available | $29.99    | —             | 46             | 27     | 7      | name.com         |
 | networks.band    | premium   | $123.75   | —             | 60             | 20     | 8      | name.com         |
