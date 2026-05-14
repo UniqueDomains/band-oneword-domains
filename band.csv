@@ -678,6 +678,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3aab145e-237c-407d-9dd4-d739e82fd81a,cometrue.band,available,29.99,,82,5,9,name.com,,
 3ab5f7b9-64e4-48d0-b7e7-26acd4880d86,keyserver.band,available,29.99,,70,4,10,name.com,,
 3acfffad-f57d-471e-93f9-b198d15aa826,Mexicans.band,available,29.99,,54,5,8,name.com,,
+3ae9ab0d-34ca-4a54-af0f-cb4615b94168,playdate.band,available,29.99,,84,16,9,name.com,,
 3aede21e-d9d3-49c4-99f5-0a42426b7f44,continentalplate.band,available,29.99,,42,1,17,name.com,,
 3b041d8c-33fc-43ce-bd99-ebd5790f637f,amatter.band,available,29.99,,60,2,8,name.com,,
 3b1136e7-931f-4064-8577-3e36fcc6eb19,goodcheer.band,available,29.99,,60,2,10,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 585ec2c1-8b32-47ba-ba0b-033b9ce22c94,continentalshelf.band,available,29.99,,60,3,17,name.com,,
 5867d9fe-b366-4ad8-9bd6-e6f3eb63ad91,systems.band,available,29.99,,46,27,7,name.com,,
 58716b99-9330-41bf-9254-86ec8aecfaf2,makenoise.band,available,29.99,,78,5,10,name.com,,
-588e4945-301d-4c02-9492-a3930d10026f,lordoftherings.band,available,29.99,,80,5,17,name.com,,
