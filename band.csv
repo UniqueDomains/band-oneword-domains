@@ -444,7 +444,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 251dfdd4-9601-4e2d-82ad-1ff37a357951,lunchware.band,available,29.99,,78,1,9,name.com,,
 2537399a-e561-4a58-890b-a89fd4d26d4e,hosts.band,available,29.99,,52,18,5,name.com,,
 2537b228-da95-4318-91d6-74a507f9f932,reservation.band,available,29.99,,65,19,11,name.com,,
-253b69de-ae2d-4479-a2d0-bfc94e6f1d3c,RGB.band,available,39.98,,76,39,3,namecheap,,
+253b69de-ae2d-4479-a2d0-bfc94e6f1d3c,RGB.band,available,39.98,,76,30,3,namecheap,,
 2555a7ce-9faa-4c2e-b106-576c6d76e850,estimated.band,available,29.99,,50,5,9,name.com,,
 25667cd0-2169-4b33-8d06-57de9a2448d0,entertheequation.band,available,29.99,,62,0,18,name.com,,
 258cdffa-37cb-46fb-8ec1-a0bd405fa29e,TheMall.band,available,39.98,,68,10,8,namecheap,,
