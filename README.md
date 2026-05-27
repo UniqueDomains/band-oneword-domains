@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .band one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,811 domains · **Median ask:** $46.18 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/band`  
 **Best for:** founders, investors, studios
 
@@ -73,13 +73,13 @@ print(df.head())
 | sites.band       | premium   | $82.50    | —             | 53             | 26     | 5      | name.com         |
 | slots.band       | available | $29.99    | —             | 49             | 31     | 5      | name.com         |
 | Keith.band       | premium   | $138.60   | $138.60       | 66             | 25     | 5      | namecheap        |
-| inspiration.band | available | $29.99    | —             | 88             | 30     | 11     | name.com         |
-| shops.band       | premium   | $123.75   | —             | 64             | 24     | 5      | name.com         |
 | RGB.band         | available | $39.98    | —             | 76             | 30     | 3      | namecheap        |
-| affiliates.band  | premium   | $78.54    | $78.54        | 60             | 21     | 10     | namesilo         |
+| shops.band       | premium   | $123.75   | —             | 64             | 24     | 5      | name.com         |
 | rewards.band     | available | $29.99    | —             | 62             | 30     | 7      | name.com         |
-| geeks.band       | premium   | $123.75   | —             | 54             | 21     | 5      | name.com         |
+| affiliates.band  | premium   | $78.54    | $78.54        | 60             | 21     | 10     | namesilo         |
 | lottery.band     | available | $29.99    | —             | 70             | 29     | 7      | name.com         |
+| geeks.band       | premium   | $123.75   | —             | 54             | 21     | 5      | name.com         |
+| inspiration.band | available | $29.99    | —             | 88             | 27     | 11     | name.com         |
 | Tshirts.band     | premium   | $82.50    | —             | 70             | 20     | 8      | name.com         |
 | systems.band     | available | $29.99    | —             | 46             | 27     | 7      | name.com         |
 | networks.band    | premium   | $123.75   | —             | 60             | 20     | 8      | name.com         |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BAND One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BAND One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
