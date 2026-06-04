@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .band one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,811 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,811 domains · **Median ask:** $46.18 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,811 domains · **Median ask:** $49.68 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/band`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| payments.band    | available | $29.99    | —             | 58             | 33     | 8      | name.com         |
-| watches.band     | resell    | —         | —             | 84             | 19     | 7      | GoDaddy.com, LLC |
-| events.band      | premium   | $1,250    | —             | 68             | 37     | 6      | name.com         |
-| teams.band       | available | $29.99    | —             | 62             | 32     | 5      | name.com         |
-| cams.band        | premium   | $118.80   | $118.80       | 52             | 29     | 4      | namesilo         |
-| letsgo.band      | available | $29.99    | —             | 57             | 31     | 7      | name.com         |
-| sites.band       | premium   | $82.50    | —             | 53             | 26     | 5      | name.com         |
-| slots.band       | available | $29.99    | —             | 49             | 31     | 5      | name.com         |
-| Keith.band       | premium   | $138.60   | $138.60       | 66             | 25     | 5      | namecheap        |
-| RGB.band         | available | $39.98    | —             | 76             | 30     | 3      | namecheap        |
-| shops.band       | premium   | $123.75   | —             | 64             | 24     | 5      | name.com         |
-| rewards.band     | available | $29.99    | —             | 62             | 30     | 7      | name.com         |
-| affiliates.band  | premium   | $78.54    | $78.54        | 60             | 21     | 10     | namesilo         |
-| lottery.band     | available | $29.99    | —             | 70             | 29     | 7      | name.com         |
-| geeks.band       | premium   | $123.75   | —             | 54             | 21     | 5      | name.com         |
-| inspiration.band | available | $29.99    | —             | 88             | 27     | 11     | name.com         |
-| Tshirts.band     | premium   | $82.50    | —             | 70             | 20     | 8      | name.com         |
-| systems.band     | available | $29.99    | —             | 46             | 27     | 7      | name.com         |
-| networks.band    | premium   | $123.75   | —             | 60             | 20     | 8      | name.com         |
-| has.band         | available | $29.99    | —             | 60             | 26     | 3      | name.com         |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| feet.band      | available | $29.99    | —             | 88             | 23     | 4      | name.com  |
+| canon.band     | premium   | —         | —             | 80             | 12     | 5      | —         |
+| oversight.band | available | $29.99    | —             | 84             | 15     | 9      | name.com  |
+| coach.band     | available | $29.99    | —             | 108            | 40     | 5      | name.com  |
+| cooking.band   | available | $29.99    | —             | 88             | 22     | 7      | name.com  |
+| cabbage.band   | available | $29.99    | —             | 94             | 15     | 7      | name.com  |
+| far.band       | available | $29.99    | —             | 88             | 29     | 3      | name.com  |
+| critic.band    | available | $29.99    | —             | 90             | 11     | 6      | name.com  |
+| bullet.band    | available | $29.99    | —             | 92             | 22     | 6      | name.com  |
+| ethnic.band    | available | $29.99    | —             | 88             | 11     | 6      | name.com  |
+| stand.band     | available | $29.99    | —             | 112            | 22     | 5      | name.com  |
+| concise.band   | available | $29.99    | $41.99        | 93             | 14     | 7      | name.com  |
+| run.band       | premium   | $118.80   | $118.80       | 108            | 37     | 3      | namesilo  |
+| academic.band  | premium   | $123.75   | $123.75       | 96             | 21     | 8      | name.com  |
+| ted.band       | available | $29.99    | —             | 90             | 32     | 3      | name.com  |
+| rare.band      | available | $29.99    | —             | 110            | 40     | 4      | name.com  |
+| icon.band      | available | $29.99    | —             | 89             | 46     | 4      | name.com  |
+| track.band     | premium   | $750      | $750          | 94             | 41     | 5      | name.com  |
+| powerful.band  | available | $29.99    | —             | 82             | 26     | 8      | name.com  |
+| desert.band    | available | $29.99    | $41.99        | 104            | 21     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BAND One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BAND One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
