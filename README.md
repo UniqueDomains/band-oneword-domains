@@ -1,10 +1,10 @@
-# Available .BAND One-Word Domains (11,811)
+# Available .BAND One-Word Domains (11,814)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C811%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C814%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .band one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,811 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,814 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,811 domains · **Median ask:** $49.68 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,814 domains · **Median ask:** $45.79 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/band`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/band`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .BAND one-word domain 
 
 ### Files
 
-- `band.csv` — public CSV extract (1,000 rows)
-- `band.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `band.csv`, public CSV extract (1,000 rows)
+- `band.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| feet.band      | available | $29.99    | —             | 88             | 23     | 4      | name.com  |
-| canon.band     | premium   | —         | —             | 80             | 12     | 5      | —         |
-| oversight.band | available | $29.99    | —             | 84             | 15     | 9      | name.com  |
-| coach.band     | available | $29.99    | —             | 108            | 40     | 5      | name.com  |
-| cooking.band   | available | $29.99    | —             | 88             | 22     | 7      | name.com  |
-| cabbage.band   | available | $29.99    | —             | 94             | 15     | 7      | name.com  |
-| far.band       | available | $29.99    | —             | 88             | 29     | 3      | name.com  |
-| critic.band    | available | $29.99    | —             | 90             | 11     | 6      | name.com  |
-| bullet.band    | available | $29.99    | —             | 92             | 22     | 6      | name.com  |
-| ethnic.band    | available | $29.99    | —             | 88             | 11     | 6      | name.com  |
-| stand.band     | available | $29.99    | —             | 112            | 22     | 5      | name.com  |
-| concise.band   | available | $29.99    | $41.99        | 93             | 14     | 7      | name.com  |
-| run.band       | premium   | $118.80   | $118.80       | 108            | 37     | 3      | namesilo  |
-| academic.band  | premium   | $123.75   | $123.75       | 96             | 21     | 8      | name.com  |
-| ted.band       | available | $29.99    | —             | 90             | 32     | 3      | name.com  |
-| rare.band      | available | $29.99    | —             | 110            | 40     | 4      | name.com  |
-| icon.band      | available | $29.99    | —             | 89             | 46     | 4      | name.com  |
-| track.band     | premium   | $750      | $750          | 94             | 41     | 5      | name.com  |
-| powerful.band  | available | $29.99    | —             | 82             | 26     | 8      | name.com  |
-| desert.band    | available | $29.99    | $41.99        | 104            | 21     | 6      | name.com  |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| aft.band     | available | $17.48    | $39.98        | low            | low    | 3      | namecheap                                    |
+| bio.band     | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.                               |
+| ben.band     | premium   | $71.40    | $71.40        | high           | medium | 3      | namesilo                                     |
+| cap.band     | available | $29.99    | —             | high           | low    | 3      | name.com                                     |
+| unit.band    | resell    | —         | —             | high           | low    | 4      | Global Domain Group LLC                      |
+| His.band     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
+| cxx.band     | available | $17.48    | $39.98        | low            | low    | 3      | namecheap                                    |
+| chain.band   | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc.                              |
+| how.band     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
+| DJI.band     | available | $29.99    | —             | high           | low    | 3      | name.com                                     |
+| happy.band   | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.                              |
+| ink.band     | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                     |
+| dye.band     | available | $29.99    | —             | medium         | low    | 3      | name.com                                     |
+| vivid.band   | resell    | —         | —             | high           | low    | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
+| job.band     | premium   | $123.75   | —             | high           | low    | 3      | name.com                                     |
+| far.band     | available | $29.99    | —             | high           | low    | 3      | name.com                                     |
+| create.band  | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC                             |
+| key.band     | premium   | $35.40    | $35.40        | high           | medium | 3      | namesilo                                     |
+| fog.band     | available | $29.99    | —             | high           | low    | 3      | name.com                                     |
+| channel.band | resell    | —         | —             | medium         | low    | 7      | Sav.com, LLC                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,811 live domains                        |
+| 1,000-row public sample | 11,814 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .band domains. The words range from literal terms such as cooking.band and critic.band to broader or more abstract terms such as oversight.band and far.band. For founders, the key question is whether the word is clear, memorable, and easy to defend as a brand in a .band ending. For investors, the main test is pricing discipline relative to word quality, commercial relevance, and likely buyer pool. The median ask is 46.19, so the practical work is not finding low pricing alone, but separating stronger words from names with weaker fit, narrower use cases, or possible trademark friction.
+This list of 11,814 one-word .band domains spans available, premium, and resell status, covering themes described as modern, elegant, and playful. Pricing concentrates below $500 for most entries, with a smaller premium tier reaching $500 to $2,000. Demand signals are mostly low across the set, with only a handful of names — including show.band, motors.band, and fitness.band — showing meaningful gaps between ask price and reference value. Reviewing renewal cost and demand alongside price helps separate the standouts from the long tail.
 
-- One-word .band names only
-- 11,808 domains in this selection
-- Median ask: 46.19
-- Check word clarity and trademark exposure
+- 11,261 available, 503 premium, 50 resell status domains
+- Median ask near $46; 10,540 domains list under $500
+- Only 14 domains show mid-to-high demand signals
+- Standouts: show.band, motors.band, fitness.band
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BAND One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BAND One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
