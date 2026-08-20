@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .band one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,635 domains · **Median ask:** $36.48 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/band`
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,6 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| perfect.band | resell    | —         | —             | high           | low    | 7      | Xiamen ChinaSource Internet Service Co., Ltd |
-| special.band | available | $29.99    | —             | high           | low    | 7      | name.com                                     |
 | aft.band     | available | $17.48    | $39.98        | low            | low    | 3      | namecheap                                    |
 | bio.band     | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.                               |
 | ben.band     | premium   | $71.40    | $71.40        | high           | medium | 3      | namesilo                                     |
@@ -84,6 +82,8 @@ print(df.head())
 | far.band     | available | $29.99    | —             | high           | low    | 3      | name.com                                     |
 | create.band  | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC                             |
 | key.band     | premium   | $35.40    | $35.40        | high           | medium | 3      | namesilo                                     |
+| fog.band     | available | $29.99    | —             | high           | low    | 3      | name.com                                     |
+| channel.band | resell    | —         | —             | medium         | low    | 7      | Sav.com, LLC                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BAND One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BAND One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
