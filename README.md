@@ -1,10 +1,10 @@
-# Available .BAND One-Word Domains (22,449)
+# Available .BAND One-Word Domains (23,054)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C449%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C054%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .band one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,449 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,054 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,449 domains · **Median ask:** $31.91 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 23,054 domains · **Median ask:** $31.57 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-14
+**Last updated:** 2026-09-15
 **Canonical page:** `https://unique.domains/domains/tld/band`
 **Best for:** founders, investors, studios
 
@@ -80,7 +80,7 @@ print(df.head())
 | vivid.band   | resell    | —         | —             | high           | low    | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
 | job.band     | premium   | $123.75   | —             | high           | low    | 3      | name.com                                     |
 | far.band     | available | $29.99    | —             | high           | low    | 3      | name.com                                     |
-| create.band  | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC                             |
+| create.band  | resell    | —         | —             | medium         | medium | 6      | GoDaddy.com, LLC                             |
 | key.band     | premium   | $35.40    | $35.40        | medium         | medium | 3      | namesilo                                     |
 | fog.band     | available | $29.99    | —             | high           | low    | 3      | name.com                                     |
 | channel.band | resell    | —         | —             | medium         | low    | 7      | Sav.com, LLC                                 |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,449 live domains                        |
+| 1,000-row public sample | 23,054 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BAND One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BAND One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
