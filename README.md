@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .band one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,393 domains · **Median ask:** $28.30 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/band`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| aft.band     | available | $17.48    | $39.98        | low            | low    | 3      | namecheap                                    |
+| aft.band     | available | $17.48    | $39.98        | high           | low    | 3      | namecheap                                    |
 | bio.band     | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.                               |
 | ben.band     | premium   | $71.40    | $71.40        | high           | medium | 3      | namesilo                                     |
-| cap.band     | available | $29.99    | —             | high           | low    | 3      | name.com                                     |
-| unit.band    | resell    | —         | —             | medium         | low    | 4      | Global Domain Group LLC                      |
+| ate.band     | available | $29.99    | —             | high           | low    | 3      | name.com                                     |
+| diy.band     | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                             |
 | his.band     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
-| cxx.band     | available | $17.48    | $39.98        | low            | low    | 3      | namecheap                                    |
-| chain.band   | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc.                              |
+| awe.band     | available | $29.99    | —             | high           | low    | 3      | name.com                                     |
+| unit.band    | resell    | —         | —             | high           | low    | 4      | Global Domain Group LLC                      |
 | how.band     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
-| dji.band     | available | $29.99    | —             | high           | low    | 3      | name.com                                     |
-| happy.band   | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.                              |
+| beg.band     | available | $29.99    | —             | high           | low    | 3      | name.com                                     |
+| chain.band   | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                              |
 | ink.band     | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                     |
-| dye.band     | available | $29.99    | —             | medium         | low    | 3      | name.com                                     |
+| cap.band     | available | $29.99    | —             | high           | low    | 3      | name.com                                     |
 | vivid.band   | resell    | —         | —             | high           | low    | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
+| its.band     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                     |
+| cxv.band     | available | $17.48    | $39.98        | high           | low    | 3      | namecheap                                    |
+| channel.band | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC                                 |
 | job.band     | premium   | $123.75   | —             | high           | low    | 3      | name.com                                     |
-| far.band     | available | $29.99    | —             | high           | low    | 3      | name.com                                     |
-| create.band  | resell    | —         | —             | medium         | low    | 6      | GoDaddy.com, LLC                             |
-| key.band     | premium   | $39       | $39           | medium         | low    | 3      | namecheap                                    |
-| fog.band     | available | $29.99    | —             | high           | low    | 3      | name.com                                     |
-| channel.band | resell    | —         | —             | medium         | low    | 7      | Sav.com, LLC                                 |
+| cxx.band     | available | $17.48    | $39.98        | high           | low    | 3      | namecheap                                    |
+| perfect.band | resell    | —         | —             | high           | low    | 7      | Xiamen ChinaSource Internet Service Co., Ltd |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BAND One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BAND One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
