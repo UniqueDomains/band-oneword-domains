@@ -49,6 +49,7 @@ b665ee1f-6fcd-46a5-a5cf-80240b375ea9,camel.band,available,15.73,25.04,high,low,5
 c5f8f854-8200-4e5a-82db-1c5ae8070ad6,analgesia.band,available,20.99,31.49,medium,low,9,namesilo,,,19/09/2026 01:49
 a6309a35-9f78-4e42-a5c7-fcd06c053125,rudiment.band,available,20.99,31.49,medium,low,8,namesilo,,,16/09/2026 14:36
 b179320c-d62c-4f59-ac83-07607259ddad,grating.band,available,17.48,39.98,high,low,7,namecheap,,,20/08/2026 18:26
+73a365a8-bc54-414e-b758-0a6a37c96016,confirmation.band,available,20,,high,low,12,unstoppable,,,28/09/2026 04:27
 2f6ecf5b-0049-41aa-bc3f-ee96d9f9b708,award.band,available,20.99,31.49,high,low,5,namesilo,,,27/09/2026 06:31
 dd88c798-5501-4695-bb71-2d42386ee183,canorous.band,available,17.48,39.98,medium,low,8,namecheap,,,11/08/2026 17:35
 e74bf3f9-5c94-4999-bdea-9a2feb593e2c,camera.band,available,29.99,,high,low,6,name.com,,,
@@ -125,6 +126,7 @@ e369c233-31f7-4fcd-8e8a-a6ebb9d69fb0,but.band,available,20.99,31.49,high,low,3,n
 b5667510-723d-4f75-bb6d-0f1cef7d634e,theft.band,available,17.48,39.98,high,low,5,namecheap,,,08/09/2026 07:55
 813775c6-8033-4a7d-b57b-a579add8c7a8,submersed.band,available,17.48,39.98,medium,low,9,namecheap,,,10/09/2026 23:32
 f587b020-2415-48cb-839e-4f888f63e037,gushy.band,available,17.48,39.98,high,low,5,namecheap,,,20/08/2026 21:03
+e24fa24f-fcd3-480a-bc88-d16c6b1acf79,vows.band,available,17.48,39.98,medium,low,4,namecheap,,,28/09/2026 04:45
 e8528553-4054-48b8-951c-837c5d7f16e0,overwhelmed.band,available,29.99,,medium,low,11,name.com,,,
 c0dd8b60-8c42-44f1-ae9f-36e03b01dd68,tabby.band,available,17.48,39.98,high,low,5,namecheap,,,23/09/2026 09:31
 84fa683b-0537-4545-8340-9057e9eb5251,bifocals.band,available,20.99,31.49,high,low,8,namesilo,,,23/09/2026 13:53
@@ -150,6 +152,7 @@ d3725637-23fa-4d42-bd42-a81f80690fd3,pack.band,available,20.99,31.49,high,low,4,
 4495a066-e526-4ee6-a6f2-9d37df178612,blues.band,premium,1107,1107,high,low,5,namesilo,,,
 6ca4cf1b-dfb6-4fba-9951-9d506996c7da,camomile.band,available,20.99,31.49,medium,low,8,namesilo,,,19/09/2026 13:02
 31989bd8-af89-4015-88ca-c4ea09115402,ovarian.band,available,17.48,39.98,medium,low,7,namecheap,,,04/09/2026 19:55
+5b4ff916-f6d2-4f61-85ed-0be9583111d5,schooling.band,available,20.99,31.49,high,low,9,namesilo,,,28/09/2026 02:34
 ae35bf4d-34b2-423b-aab8-8c6e7eecc8c9,tufted.band,available,17.48,39.98,medium,low,6,namecheap,,,11/08/2026 13:14
 43e2f7f7-0dd2-4d35-9ca3-e836b6da473f,stooping.band,available,17.48,39.98,medium,low,8,namecheap,,,21/08/2026 15:34
 e64361db-d10e-4934-817c-9ac56ad471c7,numerate.band,available,17.48,39.98,medium,low,8,namecheap,,,03/09/2026 22:56
@@ -225,6 +228,7 @@ da61489d-716b-4cfa-89b7-722fa8e8b4af,lanky.band,available,17.48,39.98,medium,low
 d6444327-0aad-4329-be43-0e65bd286d23,fortuitous.band,available,17.48,39.98,high,low,10,namecheap,,,18/08/2026 12:43
 940bae38-43ae-4122-96b2-9ea7bf9a3dd4,college.band,premium,1107,1107,high,low,7,namesilo,,,
 f5bc0938-f005-464c-9a30-27ab597b1bea,gran.band,available,29.99,,high,low,4,name.com,,,
+7b7322f0-1d2a-4ec0-b464-22a74eb9f1c7,possessed.band,available,15.73,25.04,medium,low,9,spaceship,,,28/09/2026 03:28
 7da8ee97-4390-4c0f-b605-f67d72df04b1,yuman.band,available,17.48,39.98,medium,low,5,namecheap,,,13/09/2026 14:54
 cf653d2e-5eda-485b-81f0-633891105d68,bps.band,available,20.99,31.49,high,low,3,namesilo,,,23/09/2026 22:46
 5c320b7c-8b1a-4ee4-979c-05ceb60a2255,alary.band,available,17.48,39.98,medium,low,5,namecheap,,,
@@ -337,6 +341,7 @@ e5d52f59-6551-42ed-84cb-636b9a6da712,unredeemed.band,available,17.48,39.98,mediu
 ea91d1b9-e545-4edc-8090-6886fac10ac0,undeserved.band,available,17.48,39.98,medium,low,10,namecheap,,,12/09/2026 07:43
 e104109a-51cb-4406-9f87-a84d3401a413,lorazepam.band,available,29.99,41.99,medium,low,9,name.com,,,20/09/2026 21:27
 2cf6822e-6133-4dff-b1cd-8c8e4f69ec33,dauntless.band,available,20.99,31.49,high,low,9,namesilo,,,22/09/2026 12:12
+4b8ea9ac-6574-4416-8667-2e45f5a01e27,rosa.band,available,17.48,39.98,high,low,4,namecheap,,,28/09/2026 05:49
 1cee7c9a-aff4-40d5-9bd8-5afefe3261e1,vigilant.band,available,17.48,39.98,high,low,8,namecheap,,,04/09/2026 16:01
 1c8db3a4-104a-478d-b71f-0de4cadb584a,tactual.band,available,17.48,39.98,medium,low,7,namecheap,,,21/08/2026 00:04
 a31322d5-897e-4fa6-849c-ec72d322855d,pyramidic.band,available,20.99,31.49,medium,low,9,namesilo,,,09/09/2026 06:57
@@ -379,6 +384,7 @@ f0e573c7-a271-4011-9c6f-a4e157a3e2ff,fifteen.band,available,17.48,39.98,high,low
 59979c7a-ed07-4f88-a8e7-effe0f13bc11,coaxial.band,available,17.48,39.98,medium,low,7,namecheap,,,12/08/2026 14:16
 d2849820-a7f5-4de2-88e8-d014a0c73979,asexual.band,available,17.48,39.98,high,low,7,namecheap,,,07/08/2026 01:33
 9fe62536-138b-45a9-bb81-4df4e3f736c4,fatten.band,available,17.48,39.98,medium,low,6,namecheap,,,17/08/2026 23:09
+de20235f-6bbe-4532-aae4-56c4b5ed21ea,exploration.band,available,20.99,31.49,high,low,11,namesilo,,,28/09/2026 02:39
 8b599fc2-4698-483c-bb8b-aa35609dca22,figures.band,available,29.99,,medium,low,7,name.com,,,
 79bbecea-c45e-4959-b012-6bb97971aaa5,boisterous.band,available,17.48,39.98,high,low,10,namecheap,,,10/08/2026 17:38
 cd7918ad-585f-4485-99e4-034452d0f334,magnet.band,available,17.48,39.98,high,low,6,namecheap,,,21/09/2026 02:14
@@ -412,6 +418,7 @@ f4b9e010-2b45-4abb-b3ad-b694f9edcf80,macaronic.band,available,17.48,39.98,medium
 9f3a334b-8ef0-448a-9047-2f99950528fe,iambic.band,available,17.48,39.98,high,low,6,namecheap,,,21/08/2026 17:28
 5b711e9f-80cb-48b4-9854-3fa427d47e9f,grouped.band,available,20.99,31.49,high,low,7,namesilo,,,27/09/2026 06:40
 83eabf09-e7b1-4b47-a850-854e90b0d38e,marshall.band,available,20.99,31.49,high,low,8,namesilo,,,25/09/2026 05:06
+47e7bce6-f3c1-47dc-816f-121d2452a775,marching.band,premium,1000.5,,high,low,8,unstoppable,,,28/09/2026 02:19
 961054e2-6fa5-475c-b85e-1be8cc14ce61,twinned.band,available,17.48,39.98,high,low,7,namecheap,,,24/08/2026 16:58
 a2288505-d5e1-4c71-9a6f-4352cb2cbc11,chairwoman.band,available,29.99,,high,low,10,name.com,,,
 b338145b-b74e-4a5d-8d91-ad790f891620,befitting.band,available,17.48,39.98,medium,low,9,namecheap,,,09/08/2026 08:38
@@ -542,6 +549,7 @@ ccb39190-0cd5-42b6-81f1-66fff3bf9c26,cincinnati.band,premium,1107,1107,high,low,
 8881a844-0f9d-494c-b235-052b5485c836,footloose.band,available,17.48,39.98,high,low,9,namecheap,,,18/08/2026 10:46
 7ba2af45-a27b-430d-b665-43d0e7d573b6,keychains.band,available,17.48,39.98,medium,low,9,namecheap,,,21/09/2026 02:44
 2d2c2fcd-ed3b-47dc-af76-f146cfb65524,went.band,available,29.99,,high,low,4,name.com,,,
+cff9e8af-98bf-4245-b6cf-262753a4f77c,otto.band,available,24.2,24.2,high,medium,4,cloudflare,,,28/09/2026 04:33
 5937eb7b-b3d5-4128-8f12-a3417a4db8e6,sprinkle.band,available,17.48,39.98,high,low,8,namecheap,,,15/09/2026 20:15
 d44ba236-c70b-4a8d-8c29-f0ea17cfb426,highborn.band,available,17.48,39.98,medium,low,8,namecheap,,,13/08/2026 01:48
 9d16df7a-409b-4920-871b-1783918fe824,landscaping.band,available,20.99,31.49,high,low,11,namesilo,,,24/09/2026 05:36
@@ -575,7 +583,7 @@ c8cce317-6107-4789-8261-0f9314019626,paralyzed.band,available,17.48,39.98,medium
 d20b122a-1412-484f-9c14-23d282a35f5e,siberian.band,available,16.27,25.9,high,low,8,dynadot,,,27/09/2026 21:41
 69d979a0-c159-4814-98ed-0b1beb727cb0,antipodes.band,available,20.99,31.49,medium,low,9,namesilo,,,19/09/2026 14:59
 1981e94f-4776-4b70-88e7-1682357ea93f,vols.band,available,20.99,31.49,medium,low,4,namesilo,,,27/09/2026 11:41
-25992db2-ee65-458f-b4b6-b4aea470241b,then.band,available,29.99,,high,low,4,name.com,,,
+25992db2-ee65-458f-b4b6-b4aea470241b,then.band,available,20.99,31.49,high,low,4,namesilo,,,28/09/2026 02:27
 b8995729-673e-44a3-8fc5-67f9fa7bc9a6,dorm.band,available,20.99,31.49,high,low,4,namesilo,,,24/09/2026 23:35
 466e5f42-a84f-4eb0-b2d7-7519628091df,unaged.band,available,17.48,39.98,medium,low,6,namecheap,,,12/09/2026 00:11
 f2ae9440-d87f-466b-827f-81dbaaa1e96e,tethered.band,available,17.48,39.98,medium,low,8,namecheap,,,11/09/2026 12:10
@@ -704,6 +712,7 @@ dc7a163b-84b4-4c67-981f-59deb9ae0909,insulting.band,available,20.99,31.49,medium
 eb948688-a9f1-4485-8b8f-dddbc4d7cbe5,seventy.band,available,17.48,39.98,high,low,7,namecheap,,,
 9dd9eb77-a61d-4fe3-a9aa-f4292270254d,donald.band,available,17.48,39.98,high,low,6,namecheap,,,25/09/2026 18:48
 8ca7f800-182b-4aaa-91ce-ca7c833da4e3,utmost.band,available,20.99,31.49,high,low,6,namesilo,,,24/09/2026 17:09
+4e23e9b0-499b-41b2-86ee-adeace727141,warriors.band,available,15.73,25.04,medium,low,8,spaceship,,,28/09/2026 04:57
 e33cccd1-f625-4c03-b717-8c1bbf1c620c,nobly.band,available,17.48,39.98,medium,low,5,namecheap,,,15/09/2026 16:42
 369d1214-da27-4032-803a-0e8c6fa2be3f,prissily.band,available,17.48,39.98,low,low,8,namecheap,,,15/09/2026 21:29
 8662e979-a1f1-4edf-8607-f8fc348c41fd,lloyd.band,available,20.99,31.49,high,low,5,namesilo,,,25/09/2026 06:57
@@ -724,7 +733,7 @@ aa809c9d-c62b-425b-b8a9-481080f06341,debile.band,available,29.99,41.99,medium,lo
 8fd8901e-8c24-489d-8abc-25387d2233ad,racking.band,available,17.48,39.98,medium,low,7,namecheap,,,09/09/2026 09:25
 271bb195-14f7-4abe-815a-6c2cc2b69df2,patriotic.band,available,20.99,31.49,high,low,9,namesilo,,,27/09/2026 03:06
 3d54a4f7-c27f-4c5e-b180-8b4f415572ff,cheapjack.band,available,17.48,39.98,medium,low,9,namecheap,,,12/08/2026 03:25
-fceade9f-3566-410b-86a6-e28c8b6ac673,successful.band,available,29.99,,high,low,10,name.com,,,
+fceade9f-3566-410b-86a6-e28c8b6ac673,successful.band,available,29.99,53.99,high,low,10,godaddy,,,28/09/2026 01:49
 8d926fd7-6ff9-4e26-b275-cf644440a521,goosey.band,available,17.48,39.98,medium,low,6,namecheap,,,14/08/2026 16:06
 2745d037-cddb-4119-b92a-e856f1ba70f6,bonzer.band,available,17.48,39.98,medium,low,6,namecheap,,,10/08/2026 19:02
 69a40e54-abbb-44c1-95d8-7b4003a394b7,shapeless.band,available,17.48,39.98,medium,low,9,namecheap,,,
@@ -765,6 +774,7 @@ f1666aab-7d44-41a0-b467-e2a34e9b0da1,semi.band,available,20.99,31.49,high,low,4,
 367eaaac-8861-430a-bc8e-c9e9073990ac,await.band,available,29.99,,high,low,5,name.com,,,
 53522e60-a8fc-4154-afbb-c5f2571675c5,anhydride.band,available,20.99,31.49,medium,low,9,namesilo,,,19/09/2026 08:24
 834e50cf-8455-4905-8f6b-bece14c5d66e,planners.band,premium,118.8,118.8,medium,low,8,namesilo,,,21/09/2026 08:32
+95dbd5f2-4c89-41dc-9a9b-165ab1f2b1e2,represents.band,available,15.73,25.04,medium,low,10,spaceship,,,28/09/2026 05:02
 f7fa551f-ff2f-4e6c-bf61-b4b9ada4b542,brisk.band,available,17.48,39.98,high,low,5,namecheap,,,27/09/2026 06:39
 623b33cd-c034-41b5-bb59-5f3572098a4a,scapegrace.band,available,20.99,31.49,medium,low,10,namesilo,,,24/09/2026 01:41
 d051a7ac-032c-4b8c-a974-198511ae20f7,rounder.band,available,17.48,39.98,medium,low,7,namecheap,,,23/08/2026 00:51
@@ -812,6 +822,7 @@ ade44993-f998-48fc-9cc4-6016ace1ee11,vet.band,premium,118.8,118.8,high,low,3,nam
 b609c886-2fef-4f4f-96e3-5488fcd0a758,sack.band,available,17.48,39.98,high,low,4,namecheap,,,03/09/2026 15:56
 d1db533d-296f-4e27-b616-671c9ae5e06f,irenic.band,available,17.48,39.98,high,low,6,namecheap,,,22/08/2026 09:48
 276b6d36-8ea4-4efe-9e2c-e74bb73116ee,amuck.band,available,17.48,39.98,medium,low,5,namecheap,,,
+d72f4ea7-ab03-4119-add1-69959e6d7b4c,carlyle.band,available,17.48,39.98,medium,low,7,namecheap,,,28/09/2026 02:01
 1103cfe3-0845-4d6d-88b5-2d6c992d40a5,messaging.band,available,17.48,39.98,high,low,9,namecheap,,,25/09/2026 03:29
 c02b30ec-3f22-4eb0-8616-a5da748d52aa,annotation.band,available,17.48,39.98,high,low,10,namecheap,,,19/09/2026 10:38
 e86c63f5-2fd5-4e39-a3fc-5af0dc4753b1,granted.band,available,20.99,31.49,high,low,7,namesilo,,,24/09/2026 22:19
@@ -921,6 +932,7 @@ ae2921df-a624-4471-a5ef-269bae9c4def,profuse.band,available,17.48,39.98,high,low
 b877a6f3-7bda-4e76-94e3-df81cefb552f,jasmine.band,available,17.48,39.98,high,low,7,namecheap,,,08/09/2026 14:04
 d78271c5-95fd-432b-ae9b-5bfe592c09af,feminist.band,available,17.48,39.98,high,low,8,namecheap,,,18/08/2026 01:02
 ae150299-50d1-449f-bdc5-9dabcde04fd1,viviparous.band,available,17.48,39.98,medium,low,10,namecheap,,,24/08/2026 07:53
+05913429-efbf-4621-bb52-a971d26181c4,stadium.band,premium,54.36,108.6,high,low,7,porkbun,,,28/09/2026 03:07
 376af8ed-c8d8-479f-aec3-a0e5f07e1ffc,streetwise.band,available,17.48,39.98,high,low,10,namecheap,,,10/09/2026 22:26
 f7754801-aaaf-4feb-a735-dec9a9f06df4,saccade.band,available,17.48,39.98,medium,low,7,namecheap,,,22/08/2026 12:47
 e21eaa97-23b3-4a69-a4c0-f32a73a2484e,junket.band,available,20.99,31.49,high,low,6,namesilo,,,22/09/2026 03:02
@@ -987,15 +999,3 @@ d2b04005-aee4-4e8a-8e7f-9c47ebcf677e,meekly.band,available,17.48,39.98,medium,lo
 8996c8b3-9aa4-4c9b-9fb2-a45840ca8181,arteria.band,available,20.99,31.49,high,low,7,namesilo,,,20/09/2026 10:30
 9eb55646-4d2e-4c29-b5cf-ae87bfbad829,sectional.band,available,17.48,39.98,medium,low,9,namecheap,,,10/09/2026 01:18
 9d39a738-4a52-40be-b568-cb608ca97121,becket.band,available,17.48,39.98,high,low,6,namecheap,,,22/09/2026 22:36
-d9a82889-a230-4edc-bbd9-d36968f62d54,telecom.band,available,29.99,,high,low,7,name.com,,,
-51c45ec7-1dc8-4ced-a3b6-4cb3a5339c0b,unwed.band,available,17.48,39.98,medium,low,5,namecheap,,,12/09/2026 22:35
-fbdfa17e-a13d-4569-8b5a-4223a5d84258,applet.band,available,17.48,39.98,high,low,6,namecheap,,,19/09/2026 21:38
-fc5e6ada-b8db-4381-81c5-650dafa6b8f0,amharic.band,available,17.48,39.98,medium,low,7,namecheap,,,
-ea94b7fe-103c-4685-977a-f353e01b6eee,angela.band,available,17.48,39.98,high,low,6,namecheap,,,25/09/2026 13:41
-24f7fe4f-b9a9-45e4-9dda-5b9490b5a8f2,alimental.band,available,17.48,39.98,medium,low,9,namecheap,,,
-7afbd372-6e7e-4715-9487-a745d6fa0028,mentions.band,available,20.99,31.49,medium,low,8,namesilo,,,17/09/2026 17:25
-08a0d778-cb21-4b24-8ff4-bd3939c313ab,agama.band,available,17.48,39.98,medium,low,5,namecheap,,,17/09/2026 16:05
-e27e834c-d54a-4ad5-8eae-b5983ec83317,sorely.band,available,17.48,39.98,medium,low,6,namecheap,,,16/09/2026 05:13
-ad8ae76c-6195-48ac-9cd2-f223f3e7aac2,conflicted.band,available,29.99,,medium,low,10,name.com,,,
-8a3bbb9f-82ae-4ed2-80a6-08a1473754a0,heritable.band,available,17.48,39.98,medium,low,9,namecheap,,,21/08/2026 07:08
-d573fbf4-8d85-4bf4-927e-05e4c5043143,anhydrous.band,available,17.48,39.98,medium,low,9,namecheap,,,
